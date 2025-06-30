@@ -6,6 +6,7 @@ SetOps Continued is a professional on-set tool for continuity control, built for
 You don't need a SetOps account to get started, but when you log in with your account, team syncing becomes a valuable option!
 
 Download the app in the Apple Appstore.
+
 Read more about Continued: [set-ops.com/continued/](https://set-ops.com/continued/)  
 
 ## Contact
